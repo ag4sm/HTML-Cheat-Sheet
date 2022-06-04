@@ -32,7 +32,7 @@ td {
 }
 
 .code-area {
-    margin: 20px 20px;
+    margin: 20px auto;
     padding: 40px;
     border: 5px solid red;
     border-radius: 20px;
@@ -40,4 +40,5 @@ td {
     background-color: #143525;
     color: #6AF2AE;
     font-size: 26px;
+    width: 50%;
 }
